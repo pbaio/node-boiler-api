@@ -1,0 +1,19 @@
+{
+  "name": "node-boiler-api",
+  "version": "1.0.0",
+  "description": "Node.js Boilerplate Web API using Express, Gulp, Bluebird, and Winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbaio/node-boiler-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbaio/node-boiler-api/issues"
+  },
+  "homepage": "https://github.com/pbaio/node-boiler-api#readme"
+}
